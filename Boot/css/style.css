@@ -1,0 +1,193 @@
+.btn-bg {
+  background: #fff;
+  border-color: #313461;
+}
+
+.btn-primary {
+  background: #313461;
+  border-color: #313461;
+}
+.slider {
+  width: 100% !important;
+}
+
+.jumbotron {
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: #fff;
+  text-align: center;
+  border-bottom: 5px #f4f4f4 solid;
+}
+
+.jumbotron-main {
+  padding: 60px 0 0px 0;
+  background-color: #ffff;
+}
+.jumbotron-main h1 {
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+.jumbotron p.lead {
+  font-size: 25px;
+  margin-bottom: 60px;
+}
+
+.jumbotron-sub {
+  padding: 60px 60px 40px 60px;
+}
+
+.imgs {
+  opacity: 0.7;
+}
+
+.navbar {
+  margin: 0;
+  margin-top: -30px;
+}
+
+.navbar a {
+  color: #4e4e4f;
+  margin-bottom: 3px;
+}
+
+.navbar a:hover {
+  background: none !important;
+  border-bottom: #4e4e4f 3px solid;
+  margin-bottom: 0;
+}
+.navbar-right {
+  text-align: right !important;
+  padding-left: 700px;
+  margin-left: 50px;
+}
+.box {
+  text-align: center;
+}
+
+.box .glyphicon {
+  font-size: 40px;
+}
+
+.carousel-img {
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  width: auto;
+  margin: auto;
+}
+
+.carousel-inner {
+  height: 450px;
+  width: 800px;
+  object-fit: contain;
+}
+
+.well {
+  background-color: #e9e9ed;
+  padding: 35px 25px 15px 25px;
+  height: 100%;
+}
+
+.services {
+  margin-bottom: 30px;
+}
+
+.logo {
+  max-height: 20%;
+  max-width: 20%;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.img-full {
+  width: 100%;
+  object-fit: contain;
+  border-radius: 30px;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+.main-footer {
+  background-color: #e9e9ed;
+  padding: 50px;
+  padding-left: 15%;
+}
+
+#about {
+  text-align: justify !important;
+}
+
+.fa {
+  font-size: 40px;
+  width: 40px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-github {
+  background: #24292e;
+  color: #ffff;
+}
+
+.fa-github:hover {
+  color: #bec0c1;
+}
+
+.img-size {
+  font-size: 50px;
+}
+.about-list {
+  text-align: center;
+  background-color: #e9e9ed;
+  border-bottom: 2px black solid;
+  padding: 15px;
+}
+
+.abtImg {
+  border-radius: 50% !important;
+  height: 70%;
+  width: 70%;
+  padding: 50px;
+}
+
+.contact-div {
+  text-align: center;
+}
+.contact-link {
+  text-decoration: none;
+  color: black;
+}
+
+.contact-link:hover {
+  text-decoration: none;
+  font-size: 35px;
+  font-weight: 300px;
+  border-bottom: 3px blue solid;
+}
+
+.abt-info {
+  position: relative;
+  top: -200px;
+  margin-left: 180px;
+}
+.abt-info p {
+  color: #13161d;
+  font-size: 20px;
+  line-height: 40px;
+}
+.abt-info h2 {
+  text-shadow: 2px 2px #6e6d73;
+  margin: 30px;
+  position: relative;
+  right: -150px;
+}
